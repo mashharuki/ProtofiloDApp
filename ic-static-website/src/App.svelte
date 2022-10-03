@@ -7,8 +7,8 @@
 </script>
 
 <main>
-  <div>
-    <Nav />
+  <div class="flex flex-col h-screen">
+    <Nav/>
     <Home/>
     <About/>
     <Portfolio/>
@@ -16,5 +16,3 @@
   </div>
 </main>
 
-<style>
-</style>
